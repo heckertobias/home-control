@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "isolatedModules": true,
+        "jsx": "react-jsx"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "**/*.test.tsx",
+        "**/*.test.ts"
+    ]
+}
