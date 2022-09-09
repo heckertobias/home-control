@@ -1,7 +1,9 @@
 {
     "compilerOptions": {
         "isolatedModules": true,
-        "jsx": "react-jsx"
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true
     },
     "include": [
         "src/**/*"
